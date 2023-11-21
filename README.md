@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/marko-zivanic/CardsTimeTracker)
-- Live Site URL: (https://marko-zivanic.github.io/CardsTimeTracker/)
+- Live Site URL: (https://marko-zivanic.github.io/CardsTimeTracker/Prototype/index.html)
 
 ## My process
 
